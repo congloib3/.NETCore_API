@@ -1,0 +1,14 @@
+e:\C#\API\Postgre_connect\obj\Debug\netcoreapp2.2\Postgre_connect.csprojAssemblyReference.cache
+e:\C#\API\Postgre_connect\obj\Debug\netcoreapp2.2\Postgre_connect.csproj.CoreCompileInputs.cache
+e:\C#\API\Postgre_connect\obj\Debug\netcoreapp2.2\Postgre_connect.RazorAssemblyInfo.cache
+e:\C#\API\Postgre_connect\obj\Debug\netcoreapp2.2\Postgre_connect.RazorAssemblyInfo.cs
+e:\C#\API\Postgre_connect\obj\Debug\netcoreapp2.2\Postgre_connect.AssemblyInfoInputs.cache
+e:\C#\API\Postgre_connect\obj\Debug\netcoreapp2.2\Postgre_connect.AssemblyInfo.cs
+e:\C#\API\Postgre_connect\obj\Debug\netcoreapp2.2\Postgre_connect.dll
+e:\C#\API\Postgre_connect\obj\Debug\netcoreapp2.2\Postgre_connect.pdb
+E:\C#\API\Postgre_connect\bin\Debug\netcoreapp2.2\Postgre_connect.deps.json
+E:\C#\API\Postgre_connect\bin\Debug\netcoreapp2.2\Postgre_connect.runtimeconfig.json
+E:\C#\API\Postgre_connect\bin\Debug\netcoreapp2.2\Postgre_connect.runtimeconfig.dev.json
+e:\C#\API\Postgre_connect\bin\Debug\netcoreapp2.2\Postgre_connect.dll
+e:\C#\API\Postgre_connect\bin\Debug\netcoreapp2.2\Postgre_connect.pdb
+e:\C#\API\Postgre_connect\obj\Debug\netcoreapp2.2\Postgre_connect.RazorTargetAssemblyInfo.cache
